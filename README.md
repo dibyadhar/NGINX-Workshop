@@ -2,6 +2,9 @@
 
 This workshop will be a hands-on introduction to NGINX (pronounced "engine-ex"), the open-source web server that, since its initial success as a web server, is now also used as a reverse proxy, HTTP cache, and load balancer.
 
+[Workshop Video](https://www.youtube.com/watch?v=pmLGzRKPNcA&ab_channel=GlobalLogicUK%26I)
+[Meetup link](https://www.meetup.com/devopsplayground/events/292236097/) 
+
 ## Requirements
 
 - a machine running a linux os
